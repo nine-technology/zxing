@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
  Copyright (C) 2014 ZXing authors
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -65,7 +64,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hi</string>
-  <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+  <string name="msg_default_status">Place a barcode inside rectangle to scan it.</string>
   <string name="msg_default_time">Time</string>
   <string name="msg_default_type">Type</string>
   <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
@@ -115,7 +114,7 @@
   <string name="preferences_history_summary">Store your scans in History</string>
   <string name="preferences_history_title">Add to History</string>
   <string name="preferences_invert_scan_title">Invert scan</string>
-  <string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string>  
+  <string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string>
   <string name="preferences_name">Settings</string>
   <string name="preferences_orientation_title">No automatic rotation</string>
   <string name="preferences_play_beep_title">Beep</string>
